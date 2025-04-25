@@ -8,6 +8,13 @@ My updated toolkit for management resources and scripts to help with management 
 
 - Concurrently, you can have each person fill out the same form, but instead with the desired culture. You can repeat the process above and see the differences with the results. It will tell you whether you're where you want to be or not. This depends on how much you trust the wanted culture to the desired culture YOU want. It may be useful to use internally - you don't necessarily have to change it.
 
+# data_scripts
+1. time series prediction
+    - This notebook takes in a csv of time series values and forecasts future values. This is a great quick approximation to get a sense for forecasts or to supplement a visualization for a powerpoint presentation.
+
+# Ethics
+- Includes 2 pdf files, `ethical_issues.pdf` and `ethical_toolkit.pdf` which define what ethical issues are and how to view ethical problems from different philosophical view points to have a well rounded view of the problem. It won't help you be right or wrong, but it will help make an informed ethical decision.
+
 # computer_setup
 - zshrc: setting up my zsh. Pretty standard with a color coded github stuff :D
 - vimrc: requires vundle - https://github.com/VundleVim/Vundle.vim
