@@ -19,4 +19,5 @@ My updated toolkit for management resources and scripts to help with management 
 - zshrc: setting up my zsh. Pretty standard with a color coded github stuff :D
 - vimrc: requires vundle - https://github.com/VundleVim/Vundle.vim
 
-
+# training_catalog.md
+- A catalog of trainings that former direct reports have taken and have liked.
